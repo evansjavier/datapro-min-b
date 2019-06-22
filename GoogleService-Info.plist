@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>441695808835-rom8bdkmtboc4tr0ondniu9f16kfi2oq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.441695808835-rom8bdkmtboc4tr0ondniu9f16kfi2oq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAcimyS9Yy227ZD2J_24VMGAZMcoLBZCvw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>441695808835</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.datapro.app</string>
+	<key>PROJECT_ID</key>
+	<string>dataprolegal-control-horario</string>
+	<key>STORAGE_BUCKET</key>
+	<string>dataprolegal-control-horario.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:441695808835:ios:ffa8b29034b470d4</string>
+	<key>DATABASE_URL</key>
+	<string>https://dataprolegal-control-horario.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "441695808835",
+    "firebase_url": "https://dataprolegal-control-horario.firebaseio.com",
+    "project_id": "dataprolegal-control-horario",
+    "storage_bucket": "dataprolegal-control-horario.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:441695808835:android:39fbcfb4483b111b",
+        "android_client_info": {
+          "package_name": "com.presencialaboral.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "441695808835-4vtme5crnhlgshbl8mdmc3d5u853sp06.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCoDAygNtwbH1AxggDLlLQsScaUyY7DfxM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "441695808835-4vtme5crnhlgshbl8mdmc3d5u853sp06.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
