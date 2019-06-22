@@ -1,6 +1,6 @@
 {
   "name": "fichaje-datapro",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "App híbrida de fichaje - Datapro - Cordova + Vue.js 2",
   "author": "Javier Evans <evansjavier16@gmail.com>",
   "private": true,
